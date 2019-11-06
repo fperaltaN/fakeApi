@@ -1,33 +1,5 @@
 {
   "_id": "1006",
   "listing_url": "https://www.airbnb.com/rooms/10006546",
-  "name": "Ribeira Charming Duplex,Cot - 10 € / night Dog - € 7,5 / night",
-  "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube) - UNESCO World Heritage Site. Centenary building fully rehabilitated, without losing their original character.",
-  "reviews": [
-    {
-      "_id": "58663741",
-      "date": {
-        "$date": {
-          "$numberLong": "1451797200000"
-        }
-      },
-      "listing_id": "10006546",
-      "reviewer_id": "51483096",
-      "reviewer_name": "Cátia",
-      "comments": "A casa da Ana e do Gonçalo foram o local escolhido para a passagem de ano com um grupo de amigos. Fomos super bem recebidos com uma grande simpatia e predisposição a ajudar com qualquer coisa que fosse necessário.\r\nA casa era ainda melhor do que parecia nas fotos, totalmente equipada, com mantas, aquecedor e tudo o que pudessemos precisar.\r\nA localização não podia ser melhor! Não há melhor do que acordar de manhã e ao virar da esquina estar a ribeira do Porto."
-    },
-    {
-      "_id": "62413197",
-      "date": {
-        "$date": {
-          "$numberLong": "1455426000000"
-        }
-      },
-      "listing_id": "10006546",
-      "reviewer_id": "40031996",
-      "reviewer_name": "Théo",
-      "comments": "We are french's students, we traveled some days in Porto, this space was good and we can cooking easly. It was rainning so we eard every time the water fall to the ground in the street when we sleeping. But It was cool and or was well received by Ana et Gonçalo"
-    }
-    
-  ]
+ 
 }
