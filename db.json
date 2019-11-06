@@ -33,6 +33,55 @@
     }    
   ]
       
+    },
+    {
+  "_id": "10009999",
+  "listing_url": "https://www.airbnb.com/rooms/10009999",
+  "name": "Horto flat with small garden",
+  "summary": "One bedroom + sofa-bed in quiet and bucolic neighbourhood right next to the Botanical Garden. Small garden, outside shower, well equipped kitchen and bathroom with shower and tub. Easy for transport with many restaurants and basic facilities in the area.",
+  "interaction": "I´ll be happy to help you with any doubts, tips or any other information needed during your stay.",
+  "reviews": []
+},{
+  "_id": "1001265",
+  "listing_url": "https://www.airbnb.com/rooms/1001265",
+  "name": "Ocean View Waikiki Marina w/prkg",
+  "summary": "A short distance from Honolulu's billion dollar mall, and the same distance to Waikiki. Parking included. A great location that work perfectly for business, education, or simple visit. Experience Yacht Harbor views and 5 Star Hilton Hawaiian Village.",
+  "interaction": "We try our best at creating, simple responsive management which never bothers the guest.",
+  
+  "reviews": [
+    {
+      "_id": "4765259",
+      "date": {
+        "$date": {
+          "$numberLong": "1369368000000"
+        }
+      },
+      "listing_id": "1001265",
+      "reviewer_id": "6435238",
+      "reviewer_name": "Jacqui",
+      "comments": "Our stay was excellent.  The place had a breath taking view.  David was very accommodating with our hotel stay, parking availability and all of our concerns & questions.  He did above and beyond what anyone would want.  He's a man of his word and very professional.  We highly recommend for everyone to stay in all of the places he recommended.  Thank you David for a accommodating our wonderful and memorable stay in Honolulu, Hawaii.  God Bless!  Henry & Jacqui (SF, CA)"
     }
+  ]
+},{
+  "_id": "10021707",
+  "listing_url": "https://www.airbnb.com/rooms/10021707",
+  "name": "Private Room in Bushwick",
+  "summary": "Here exists a very cozy room for rent in a shared 4-bedroom apartment. It is located one block off of the JMZ at Myrtle Broadway.  The neighborhood is diverse and appeals to a variety of people.",
+  "interaction": "",
+  "reviews": [
+    {
+      "_id": "61050713",
+      "date": {
+        "$date": {
+          "$numberLong": "1454216400000"
+        }
+      },
+      "listing_id": "10021707",
+      "reviewer_id": "52006105",
+      "reviewer_name": "Antoine",
+      "comments": "Josh was out of town during my 1 month stay. His roommates greeted and helped get me settled. They were great hosts and all around cool people. I'm a Brooklynite, but have never lived in Bushwick.\r\nIf you're looking for an hip, authentic, and convenient Brooklyn experience, this spot is for you.  You can literally see the Subway platform from Josh's window. Also a couple steps away from anything you could possibly need... restaurants, juice bar, organic grocery, etc. "
+    }
+  ]
+}
   ]
 }
