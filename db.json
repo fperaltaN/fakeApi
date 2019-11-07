@@ -9,11 +9,7 @@
   "reviews": [
     {
       "_id": "58663741",
-      "date": {
-        "$date": {
-          "$numberLong": "1451797200000"
-        }
-      },
+      "date":  "1451797200000",
       "listing_id": "10006546",
       "reviewer_id": "51483096",
       "reviewer_name": "Cátia",
@@ -21,11 +17,7 @@
     },
     {
       "_id": "62413197",
-      "date": {
-        "$date": {
-          "$numberLong": "1455426000000"
-        }
-      },
+      "date":"1455426000000",
       "listing_id": "10006546",
       "reviewer_id": "40031996",
       "reviewer_name": "Théo",
@@ -51,11 +43,7 @@
   "reviews": [
     {
       "_id": "4765259",
-      "date": {
-        "$date": {
-          "$numberLong": "1369368000000"
-        }
-      },
+      "date":  "1369368000000",
       "listing_id": "1001265",
       "reviewer_id": "6435238",
       "reviewer_name": "Jacqui",
@@ -71,11 +59,7 @@
   "reviews": [
     {
       "_id": "61050713",
-      "date": {
-        "$date": {
-          "$numberLong": "1454216400000"
-        }
-      },
+      "date": "1454216400000",
       "listing_id": "10021707",
       "reviewer_id": "52006105",
       "reviewer_name": "Antoine",
